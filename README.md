@@ -1,7 +1,7 @@
-This my training python lang
+This my training python language
 
 How to install python?
-use this command
+use this command.
 ```
 sudo apt install python3
 ```
